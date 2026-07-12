@@ -1,1 +1,5 @@
-
+print("Hello, World!")
+print("My name is Romit Ghosh.")
+print("I am a Class 12 student.")
+print("I am learning Python and GitHub.")
+print("My goal is to become an engineer.")
