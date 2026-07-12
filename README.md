@@ -1,19 +1,35 @@
 # python-practice
 # Python Practice 🐍
 
-Hi! I'm Romit, a Class 12 student passionate about programming, AI, and engineering.
+Hi! I'm **Romit Ghosh**, a Class 12 student from India passionate about **Programming, AI, and Engineering**.
 
-This repository contains:
-- Python basics
-- Practice questions
-- Mini projects
-- Data structures and algorithms
-- Problem-solving exercises
+## 📚 Repository Contents
+- Python Basics
+- Practice Questions
+- Mini Projects
+- Data Structures & Algorithms
+- Problem-Solving Exercises
 
-## Current Goals
+## 🎯 Current Goals
 - Learn Python thoroughly
 - Build useful projects
-- Prepare for AI and software development
+- Explore AI and Software Development
+- Create real-world projects
 
-## Author
-Romit Ghosh
+## 📅 Learning Progress
+- [ ] Python Basics
+- [ ] Object-Oriented Programming
+- [ ] File Handling
+- [ ] Data Structures
+- [ ] APIs
+- [ ] Mini Projects
+
+## 🚀 Future Projects
+- Scientific Calculator
+- Physics Formula Solver
+- Study Planner
+- JEE Rank Predictor
+- AI Study Assistant
+
+## 👨‍💻 Author
+**Romit Ghosh**
